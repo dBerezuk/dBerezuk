@@ -15,6 +15,6 @@ I am a full-stack programmer, I started my journey with website layout, at the m
 
 ## Contact
 
-- Email: [berezukdenis20@gmail.com](mailto:berezukdenis20@gmail.com){:target="_blank"}
-- linkedin: [[https://www.linkedin.com/mynetwork/grow/](https://www.linkedin.com/in/denis-berezuk-4a4552294/)](https://www.linkedin.com/in/denis-berezuk-4a4552294/){:target="_blank"}
-- GitHub: [dBerezuk](https://github.com/dBerezuk){:target="_blank"}
+- Email: [berezukdenis20@gmail.com](mailto:berezukdenis20@gmail.com)
+- linkedin: [[https://www.linkedin.com/mynetwork/grow/](https://www.linkedin.com/in/denis-berezuk-4a4552294/)](https://www.linkedin.com/in/denis-berezuk-4a4552294/)
+- GitHub: [dBerezuk](https://github.com/dBerezuk)
