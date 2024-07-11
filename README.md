@@ -2,11 +2,11 @@
 
 ## About Me
 
-Я full-stack программист, я начинал свой путь с верстки сайтов, на на даннный момент, я уже разработал более 20 пет проектов многие из них fullstack, и так же побывал на поле боя фриланса, где скромно выполнил успешно 10 проектов, недавно закончил курсы по front-end разработке, решил обновить свои знание, и завести новые знакомста. 
+I am a full-stack programmer, I started my journey with website layout, at the moment, I have already developed more than 20 pet projects, many of them full-stack, and I also visited the freelancing battlefield, where I modestly successfully completed 10 projects, recently I completed courses on front-end development, decided to update my knowledge and make new acquaintances.
 
-## Skils and Expretise
+## Skills and experience
 
-- Программировал на языках | технологиях: JavaScript/Typescript, PHP, Python
+- Programming in languages | technologies: JavaScript/Typescript, PHP, Python
 - Front-end Development: HTML, CSS, SASS | SCSS, LESS, TailwindCSS, Bootsrap JavaScript, Jquery, Gulp, React.js, Redux, Redux Toolkit, React Hook Form, JSX | TSX, TanStack Query.
 - Back-end Development: PHP, WordPress, Laravel, Node.js, Express.js.
 - DataBase: Mysql, MongoDB
@@ -15,6 +15,6 @@
 
 ## Contact
 
-- Email: [tomail:berezukdenis20@gmail.com](berezukdenis20@gmail.com)
-- linkedin: [https://www.linkedin.com/mynetwork/grow/](https://www.linkedin.com/in/denis-berezuk-4a4552294/)
-- GitHub: https://github.com/dBerezuk
+- Email: [berezukdenis20@gmail.com](mailto:berezukdenis20@gmail.com){:target="_blank"}
+- linkedin: [[https://www.linkedin.com/mynetwork/grow/](https://www.linkedin.com/in/denis-berezuk-4a4552294/)](https://www.linkedin.com/in/denis-berezuk-4a4552294/){:target="_blank"}
+- GitHub: [dBerezuk](https://github.com/dBerezuk){:target="_blank"}
