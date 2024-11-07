@@ -7,7 +7,7 @@ I am a full-stack programmer, I started my journey with website layout, at the m
 ## Skills and experience
 
 - Programming in languages | technologies: JavaScript/Typescript, PHP, Python
-- Front-end Development: HTML, CSS, SASS | SCSS, LESS, TailwindCSS, Bootsrap JavaScript, Jquery, Gulp, React.js, Redux, Redux Toolkit, React Hook Form, JSX | TSX, TanStack Query.
+- Front-end Development: HTML, CSS, SASS | SCSS, LESS, TailwindCSS, Bootsrap, JavaScript, Jquery, Gulp, React.js, Redux, Redux Toolkit, React Hook Form, JSX | TSX, TanStack Query.
 - Back-end Development: PHP, WordPress, Laravel, Node.js, Express.js.
 - DataBase: Mysql, MongoDB
 - Development Tools: Vs Code, Git, GitHub.
