@@ -8,8 +8,8 @@ I am a full-stack programmer, I started my journey with website layout, at the m
 
 - Programming in languages | technologies: JavaScript/Typescript, PHP, Python
 - Front-end Development: HTML, CSS, SASS | SCSS, LESS, TailwindCSS, Bootsrap, JavaScript, Jquery, Gulp, React.js, Redux, Redux Toolkit, React Hook Form, JSX | TSX, TanStack Query.
-- Back-end Development: PHP, WordPress, Laravel, Node.js, Express.js.
-- DataBase: Mysql, MongoDB
+- Back-end Development: PHP, WordPress, Laravel, Node.js, Express.js, Nest.js, Prisma.
+- DataBase: Mysql, MongoDB, Postgresql
 - Development Tools: Vs Code, Git, GitHub.
 - Testing Tools: Postman.
 
